@@ -25,7 +25,7 @@ de Jaén, donde la elección de sus actos tendrá consecuencias.
 
 ## Diagrama de flujo
 
-![Parece que la carga de la imagen ha fallado](..\games\media\img\Diagrama "Diagrama de flujos")
+![Parece que la carga de la imagen ha fallado](/imganes/Diagrama.png "Diagrama de flujos")
 
 Como se puede ver en el diagrama después de elegir una de las opciones, cada una de ellas proporcionará una nueva aventura para nuestros personajes.
 
@@ -35,16 +35,16 @@ Como se puede ver en el diagrama después de elegir una de las opciones, cada un
 
 ___Vista principal___: Vista de la historia al comienzo.
 
-![Parece que la carga de la imagen ha fallado](..\games\media\img\Inicio "Inicio de la historia")
+![Parece que la carga de la imagen ha fallado](/imganes/Inicio.png "Inicio de la historia")
 
 
 ___Listado de los personajes y sus estadisticas___: Conforme se vayan seleccionando las distintas opciones, las estadísticas de cada personaje iran cambiandose.
 
-![Parece que la carga de la imagen ha fallado](..\games\media\img\EI "Estadísticas iniciales")
+![Parece que la carga de la imagen ha fallado](/imganes/EI.png "Estadísticas iniciales")
 
 ___Imagen 1___: podemos ver las estadisticas iniciales.
 
-![Parece que la carga de la imagen ha fallado](..\games\media\img\EM "Estadísticas modificadas")
+![Parece que la carga de la imagen ha fallado](/imganes/EM.png "Estadísticas modificadas")
 
 ___Imagen 2___: podemos ver un ejemplo de como han cambiando conforme se ha seleccionado una opción.
 
@@ -52,7 +52,7 @@ ___Imagen 2___: podemos ver un ejemplo de como han cambiando conforme se ha sele
 
 ## Conexión entre GitHub y Telegram
 
-![Parece que la carga de la imagen ha fallado](..\games\media\img\Telegram "Vinculación con Telegram")
+![Parece que la carga de la imagen ha fallado](/imganes/Telegram.png "Vinculación con Telegram")
 
 ___Imagen 3___: vemos la conexión realizada desde Telegram con el proyecto en GitHub.
 
@@ -62,7 +62,7 @@ ___Telegram___: @DiegoCorral
 
 ## Conexión entre Trello y Telegram
 
-![Parece que la carga de la imagen ha fallado](..\games\media\img\Trello "Vinculación con Telegram")
+![Parece que la carga de la imagen ha fallado](/imganes/Trello.png "Vinculación con Telegram")
 
 ___Imagen 4___:vemos la conexión realizada desde Telegram con el tablero de Trello.
 
@@ -75,23 +75,23 @@ ___Enlace al tablero de Trello___: [https://trello.com/b/Fexv5RTZ/segunda-practi
 A continuación, se muestran diferentes capturas de pantalla con el proceso evolutivo que ha tenido el tablero de Trello mientras se resolvía la práctica.
 
 
-![Parece que la carga de la imagen ha fallado](..\games\media\img\TInicio "Tablero al inicio")
+![Parece que la carga de la imagen ha fallado](/imganes/TInicio.png "Tablero al inicio")
 
 ___Imagen 5___: vemos el tablero al comienzo de la práctica.
 
-![Parece que la carga de la imagen ha fallado](..\games\media\img\PSemana "Tablero en la segunda semana")
+![Parece que la carga de la imagen ha fallado](/imganes/PSemana.png "Tablero en la segunda semana")
 
 ___Imagen 6___: vemos el tablero tras una semana de trabajo.
 
-![Parece que la carga de la imagen ha fallado](..\games\media\img\SSemana "Tablero en la tercera semana")
+![Parece que la carga de la imagen ha fallado](/imganes/SSemana.png "Tablero en la tercera semana")
 
 ___Imagen 7___: vemos el tablero tras dos semanas de trabajo.
 
-![Parece que la carga de la imagen ha fallado](..\games\media\img\TSemana "Tablero en la tercera semana")
+![Parece que la carga de la imagen ha fallado](/imganes/TSemana.png "Tablero en la tercera semana")
 
 ___Imagen 8___: vemos el tablero tras tres semanas de trabajo.
 
-![Parece que la carga de la imagen ha fallado](..\games\media\img\Completo "Tablero completo")
+![Parece que la carga de la imagen ha fallado](/imganes/Completo.png "Tablero completo")
 
 ___Imagen 9___: vemos el tablero tras finalizar todas las tareas.
 
