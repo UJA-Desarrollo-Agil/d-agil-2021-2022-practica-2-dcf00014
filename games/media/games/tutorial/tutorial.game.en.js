@@ -97,7 +97,7 @@ undum.game.situations = {
 		<center><img src='media/games/tutorial/jb.jpg' width='300px' height='300px'></center>\
 		<p>Decidimos ir al piso de Las Enfermedades, pero primero hacemos una\
 		parada en el Mercadona, para comprar una botella de JB muy buena para\
-		nosotros y dos bolsas de hielo que nos han encargado para el <a href='bote'>botellon</a>.</p>\
+		nosotros y dos bolsas de hielo que nos han encargado para el <a href='bote'>botellón</a>.</p>\
 		",
 		{
             exit: function(character, system, to) {
@@ -114,7 +114,13 @@ undum.game.situations = {
 		unos cuantos cubatas y de fumarnos las shishas, empezamos a discutir sobre\
 		nuestra proxima aventura: si <a href='kharmaa'>irnos a Kharma</a> a cazar gatitas\
 		o de seguir en el <a href='quedarsee'>piso</a> de chill.</p>\
-		"
+		",
+		{
+			exit: function(character, system, to) {
+				system.animateQuality("bManolo", character.qualities.bManolo-2);
+				system.animateQuality("bPiñero", character.qualities.bPiñero-2);
+            }
+		}
     ),
 	porrones: new undum.SimpleSituation(
         "<h1>Aventura en los porrones</h1>\
@@ -145,8 +151,8 @@ undum.game.situations = {
 			exit: function(character, system, to) {
                 system.animateQuality("manolos", character.qualities.manolos-20);
 				system.animateQuality("piñeros", character.qualities.piñeros-20);
-				system.animateQuality("bManolo", character.qualities.bManolo-2);
-				system.animateQuality("bPiñero", character.qualities.bPiñero-2);
+				system.animateQuality("bManolo", character.qualities.bManolo-4);
+				system.animateQuality("bPiñero", character.qualities.bPiñero-4);
             }
 		}
     ),
@@ -237,8 +243,6 @@ undum.game.situations = {
 					}
 				},
 			exit: function(character, system, to) {
-					system.animateQuality("bManolo", character.qualities.bManolo+3);
-					system.animateQuality("bPiñero", character.qualities.bPiñero+3);
 					system.setCharacterText("<p>QUE BUENA MULTA NOS HEMOS LLEVADO.</p>");
 				}
 			}		
