@@ -258,7 +258,7 @@ undum.game.situations = {
         "<h1>Aventura en la UJA</h1>\
 		<center><img src='media/games/tutorial/clasee.jpg' width='300px height='350px'></center>\
 		<p>Al dia siguiente me despierto y me dirijo hacia la UJA para asistir a clase de Desarrollo Ágil,\
-		donde por el camino me cruzo con mi amigo Manolo y le digo: ¡MENOS MAL QUE NO SALE ANOCHE JAJAJAJA!\
+		donde por el camino me cruzo con mi amigo Manolo y le digo: ¡MENOS MAL QUE NO SALÍ ANOCHE JAJAJAJA!\
 		Finalmente llego a clase y me pongo a escuchar muy atentamente a mi gran profesor Victor.</p>\
 		<br></br>\
 		<center><h1>FIN DE LA HISTORIA</h1></center>"
