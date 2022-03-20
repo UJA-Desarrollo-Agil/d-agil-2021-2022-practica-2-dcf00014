@@ -60,7 +60,7 @@ undum.game.situations = {
 		<p>Descuelgo el teléfono y sin decir nada, escucho la famosa frase de mi amigo\
 		Manolo: ¿Qué marcha llevamos esta noche, Piñero? A lo que yo le respondo:\
 		¿Qué marcha quieres que llevemos? Entonces, Manolo me propone dos\
-		opciones: <a href='liga'>echar la liga en el centro</a> o <a href='merca'>hacer botellón en el piso de Las Enfermedades</a>.</p>\
+		opciones: <a href='liga'>echar la liga en el centro</a> o <a href='merca'>hacer botellón en el piso de nuestro amigo Chapi</a>.</p>\
 		"
 			
     ),
@@ -78,9 +78,9 @@ undum.game.situations = {
         "<h1>Vamos de liga</h1>\
 		<center><img src='media/games/tutorial/abuelo.jpg' width='300px' height='300px'></center>\
 		<p>Tras decidir ir a echar la liga al centro, nos dirigimos hacia nuestro bar favorito\
-		de Jaén, El Abuelo. Tras echarnos un par de rondillas, le digo a Manolos: ¿Hacia\
+		de Jaén, El Abuelo. Tras echarnos un par de rondillas, le digo a Manolo: ¿Hacia\
 		dónde nos dirigimos ahora? A lo que él me responde: ¿<a href='porrones'>Vamos a los porrones</a>\
-		o <a href='kharma'>vamos directamente a Kharma sin calentar</a>?</p>\
+		o <a href='kharma'>vamos directamente a Kharma</a>?</p>\
 		",
 		{
 			
@@ -93,9 +93,9 @@ undum.game.situations = {
 		}
     ),
 	merca: new undum.SimpleSituation(
-        "<h1>Aventura en el piso de las Enfermedades”</h1>\
+        "<h1>Aventura en el piso de Chapi”</h1>\
 		<center><img src='media/games/tutorial/jb.jpg' width='300px' height='300px'></center>\
-		<p>Decidimos ir al piso de Las Enfermedades, pero primero hacemos una\
+		<p>Decidimos ir al piso, pero primero hacemos una\
 		parada en el Mercadona, para comprar una botella de JB muy buena para\
 		nosotros y dos bolsas de hielo que nos han encargado para el <a href='bote'>botellón</a>.</p>\
 		",
@@ -109,10 +109,10 @@ undum.game.situations = {
 	bote: new undum.SimpleSituation(
         "<h1>LLegamos al piso</h1>\
 		<center><img src='media/games/tutorial/botellon.jpg' width='300px' height='300px'></center>\
-		<p>Una vez que realizamos los encargos nos dirigimos al piso de Las Enfermedades, donde nos\
-		esperan con un par de shishas y un ambientazo que te cagas.	Tras tomarnos\
-		unos cuantos cubatas y de fumarnos las shishas, empezamos a discutir sobre\
-		nuestra proxima aventura: si <a href='kharmaa'>irnos a Kharma</a> a cazar gatitas\
+		<p>Una vez que realizamos los encargos nos dirigimos al piso de nuestro colaga Chapi, donde nos\
+		esperan con un la PS5 y un ambientazo flipante. Tras tomarnos\
+		unos cuantos cubatas y echarnos algunas partidillas al FIFA, empezamos a discutir sobre\
+		nuestra proxima aventura: si <a href='kharmaa'>irnos a Kharma</a>\
 		o de seguir en el <a href='quedarsee'>piso</a> de chill.</p>\
 		",
 		{
@@ -143,7 +143,7 @@ undum.game.situations = {
         "<h1>Aventura en Kharma</h1>\
 		<center><img src='media/games/tutorial/kharmaa.jpeg' width='300px' height='350px'></center>\
 		<p>Negociamos un rato nuestra próxima aventura  y decidimos bajar hacia Kharma\
-		para reunirnos con nuestros colegas para empezar la caza de gatitas. Una vez\
+		para reunirnos con nuestros colegas y seguir disfrutando del jueves universitario. Una vez\
 		dentro, me da por mirar el móvil para ver la hora, cuando veo que son las 7 de\
 		la mañana y recuerdo que tengo <a href='clase'>clase</a> a las 8 y media.</p>\
 		",
@@ -199,9 +199,9 @@ undum.game.situations = {
 	kharmaa: new undum.SimpleSituation(
         "<h1>Aventura en Kharma</h1>\
 		<center><img src='media/games/tutorial/kharmaa.jpeg' width='300px' height='350px'></center>\
-		<p>Con el cubata en mano, decidimos irnos a Kharma en busca de gatitas. Tras\
-		llevar un buen rato en la discoteca dándolo todo y diciéndole a las gatitas:\
-		¿Nena, que vacuna me llevas? Veo que nos echan las luces, lo que eso significa que\
+		<p>Con el cubata en mano, decidimos irnos a Kharma a seguir disfrutando de la noche. Tras\
+		llevar un buen rato en la discoteca dándolo todo y diciéndole a la peña:\
+		¿Como va la noche, socio? Veo que nos echan las luces, lo que eso significa que\
 		ya son las 7 de la mañana y en menos de hora y media tenemos <a href='clase'>clase</a>.</p>",
 		{
 		exit: function(character, system, to) {
@@ -216,7 +216,7 @@ undum.game.situations = {
         "<h1>Nuestra aventura continua en el piso</h1>\
 		<center><img src='media/games/tutorial/botelloon.jpeg' width='300px' height='350px'></center>\
 		<p>Tras hablar de nuestra próxima aventura, decidimos continuar nuestra noche\
-		en el piso inflándonos a cubatas y con las cachimbas, cuando de repente llaman\
+		en el piso tomandonos cubatas y jugando a la PS%, cuando de repente llaman\
 		a la puerta… ¡Era la policía! Venía porque los vecinos la habían llamado debido\
 		al nivel de ruido que estábamos formando. Total, que nos habian puesto un pedazo de <a href='multa'>multa</a> del copón.</p>\
 		",
